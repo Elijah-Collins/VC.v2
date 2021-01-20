@@ -466,7 +466,7 @@ section {
   font-weight: 700;
   padding: 8px 20px;
   margin: 0;
-  background: #f3f8ec;
+  background: #cb9eff;
   color: #5500b5;
   display: inline-block;
   text-transform: uppercase;
@@ -503,7 +503,7 @@ section {
   font-weight: 700;
   padding: 8px 20px;
   margin: 0 0 15px 0;
-  background: #f3f8ec;
+  background: #cb9eff;
   color: #5500b5;
   display: inline-block;
   text-transform: uppercase;
@@ -796,7 +796,7 @@ section {
 }
 
 .services .icon-box .icon i {
-  color: #cb9eff;
+  color: #7c20e6;
   font-size: 28px;
   transition: ease-in-out 0.3s;
 }
@@ -1335,7 +1335,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #f3f8ec;
+  background: #cb9eff;
   display: flex;
   justify-content: center;
   align-items: center;
